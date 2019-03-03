@@ -18,7 +18,7 @@ The purpose of this interview is to better understand the day-to-day challenges 
 
 ### Step 2: Find challenges
 
-Start the interview by asking your participant about their daily routine. Try to find something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do. 
+Start the interview by asking your participant about their daily routine. Try to find something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do.
 
 _**Interview Tip: **Try to have a natural conversation. Laugh, joke, and don't rely solely on the example questions below. Give your subject plenty of time to respond, awkward pauses may result in valuable responses if you're patient. _
 
@@ -42,8 +42,6 @@ _**Interview Tip: **Try to have a natural conversation. Laugh, joke, and don't r
 3. Is there anything preventing you from doing this now? If so, what are some of those things?
    1. Why do you think that is? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
 
-
-
 **Core Values**
 
 1. What do you value more, **adventure** or **stability**?
@@ -55,9 +53,8 @@ _**Interview Tip: **Try to have a natural conversation. Laugh, joke, and don't r
 
 **Original Questions**
 
-Prepare three or more original questions that you will ask your subject.
+Prepare three or more original questions that you will ask your subject
 
-1. 2. 3. 
 #### Laddering - Five 'Why?'s
 
 Laddering is a technique developed in the 1960s to help clinical psychologists uncover core values and beliefs. If your participant has many responses from the previous step, focus on one response. Ask your participant **why**. Asking why helps us to better understand an ambiguous issue and gets to a more emotional aspect of a problem. After they respond, ask why again. Repeat this until you have asked why five times. Asking five times is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question.
