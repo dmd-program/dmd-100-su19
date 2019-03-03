@@ -53,7 +53,11 @@ _**Interview Tip: **Try to have a natural conversation. Laugh, joke, and don't r
 
 **Original Questions**
 
-Prepare three or more original questions that you will ask your subject
+Prepare three or more original questions that you will ask your subject.
+
+1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?
+2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?
+3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?
 
 #### Laddering - Five 'Why?'s
 
