@@ -2,7 +2,11 @@
 
 # Develop: Interactive Wireframes
 
-Now that you have described the various aspects of the ritual, you will create interactive wireframes for a mobile app. You can think of wireframes as a an informal sketch that helps a designer test their ideas so they can quickly iterate the design and gather feedback. This process is important because it helps product designers make decisions before wasting resources on a final product that solves the wrong problem. You will use an easy to use design tool called InvisionApp to produce a navigable wireframes of app "screens", with active buttons, menus, and other simulated features. The purpose of these wireframes are to quickly communicate to your peers how you intend to use a mobile device application to facilitate, generate, or expand upon a ritual.
+Now that you have described the various aspects of the ritual, you will create interactive wireframes for a mobile app.
+
+**The app should aid in the performance of your ritual**. The app does not need to solve your subject's problems all by itself; it should act as an instructional manual, tool, or other component of the ritual. The ritual can involve physical actions that take place outside of the app, in the real world, with other people, or in the user's mind. 
+
+Wireframes are informal sketches that help designers test their ideas so they can quickly iterate the design and gather feedback. This process is important because it helps product designers make decisions before wasting resources on a final product that solves the wrong problem. You will use an easy to use design tool called InvisionApp to produce a navigable wireframes of app "screens", with active buttons, menus, and other simulated features. The purpose of these wireframes are to quickly communicate to your peers how you intend to use a mobile device application to facilitate, generate, or expand upon a ritual.
 
 ## Tools and Materials
 
@@ -30,7 +34,7 @@ Now that you have described the various aspects of the ritual, you will create i
 
 ### A. Creating wireframes
 
-1. In your journal, you can list the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a timer component, you can make a note that you'll need a visual (or audio) cue for the timer.
+1. In your journal, you can list the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a timer component, you can make a note that you'll need a visual \(or audio\) cue for the timer.
 2. Look at wireframing inspiration: [https://whatpixel.com/instagram-ux-sketches-wireframes](https://whatpixel.com/instagram-ux-sketches-wireframes/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
 3. Create the app's interface screens
    1. If you prefer to use pencil and paper, you can either draw the wireframes or download and print the Paper Prototyping PDF. If you intend to use software, refer to step 6.
