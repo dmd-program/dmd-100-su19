@@ -12,7 +12,7 @@ Now that you have documented at least one object each day for two weeks, it's ti
 
 1. Respond to the prompt questions in Studio.
 2. Upload all 14 of your sketches in JPG format.
-    - Please either use a scanner or take clear and well lit photographs.
+    - **Please either use a scanner or take clear and well lit photographs.**
 2. Write your responses to the prompt questions at the end of the two weeks.
 
 

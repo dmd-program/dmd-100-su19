@@ -26,11 +26,13 @@ You should include the bare minimum listed in this tutorial, but if you want to 
 * Twine Guide: [Twine Wiki](http://twinery.org/wiki/twine2:guide)
 * Advanced: [Interactive Fiction](http://www.sfwa.org/creating-interactive-fiction-guide-using-twine/)
 * Making a game with Twine: [Twine Game Tutorial](http://www.auntiepixelante.com/twine/)
+* How to add [custom CSS](http://twinery.org/wiki/twine2:change_the_font_colors_or_appearance) to a Twine story \(colors, fonts, layout, etc.\)
 
 ### Inspiration
 
 * [Fabricationist DeWit Remakes the World by Jedediah Berry](http://thirdarchive.net/fabricationist-dewit-remakes-the-world/)
 * [Eidolon by A.D. Jansen](http://ifarchive.jmac.org/if-archive/games/competition2014/Eidolon/Eidolon.html)
+* [Science Fiction Prototypes by the Threatcasting Lab](https://threatcasting.com/about/sci-fi-prototypes/) — Short comics illustrating potential technological futures relvant to the military. 
 
 ## Previous student work
 
@@ -39,6 +41,8 @@ You should include the bare minimum listed in this tutorial, but if you want to 
 ## Grading
 
 This project will be graded according to a cumulative assessment of each part of the design process. More information can be found on the individual design process step.
+
+
 
 ## Citation
 

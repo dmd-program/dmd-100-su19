@@ -4,6 +4,8 @@
 
 You will now write a fictional, yet _**plausible**_ story that describes how this imagined future 30 years from now came to be. For example, Unicorns are not plausible to exist in 30 years \(unless you make a compelling CRISPR argument\), but autonomous flying cars are plausible.
 
+The story should describe the evolution of the world as it is now to the world 30 years in the future**,** using characters and dramatic story structure. 
+
 ## Requirements
 
 * **Positive content:** The result of the plot must be of a positive future.
@@ -32,11 +34,11 @@ Produce a document with the following items:
 9. **Character list**
    * List the people who would need to see this story in order for it to become a reality? Who are the decision makers that can make this happen? Who are the organizers, supporters, proponents, and opponents? These people are your characters. Read the [character topic](/topics/character.md) for more details.
 10. **Plot structure**
-   1. The way it was
-   2. And then one day...
-   3. Raising the stakes
-   4. Moment of change
-   5. World as it is now
+    1. The way it was
+    2. And then one day...
+    3. Raising the stakes
+    4. Moment of change
+    5. World as it is now
 
 ## Document instructions
 
@@ -50,3 +52,6 @@ Use the exact indicated file format. You must obtain prior approval to deviate f
 
 1. Follow the document instructions.
 2. Upload the plot document in `.doc` format.
+
+
+
