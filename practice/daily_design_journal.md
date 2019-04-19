@@ -22,7 +22,7 @@ In this activity, you will document at least one object each day for two weeks \
 ## Instructions
 
 1. Visually document an object each day for two weeks \(14 object sketches total\) that is typical for you to interact with in your daily life. You can use pen, pencil, markers, or any combination you'd like. 
-2. Write contextual notes about the objects' materials, dimensions, and functionality. Focus on the design (shape, form, etc.) of the object and the way you interact it. You may also include information about what the purpose is or where you acquired it.
+2. Write contextual notes about the objects' materials, dimensions, and functionality. Focus on the design (shape, form, etc.) of the object and how that relates to the way you interact with it. You may also include information about what the purpose is or where you acquired it. Be thorough and specific, as if you're an archaeologist examining an artifact. 
 3. Please follow the journal sketching requirements.
 
 

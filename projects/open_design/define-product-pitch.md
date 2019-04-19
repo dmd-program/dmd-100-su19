@@ -44,6 +44,6 @@ Create a document file with the following:
 4. As a vital part of the design process, this document should be well formatted and clearly written. Please do not copy and paste the assignment text into the document.
 
 
-## Post work to the Studio
+## Post work to the Studio as a PDF
 
 1. Export and upload the pitch document in `.pdf` format.

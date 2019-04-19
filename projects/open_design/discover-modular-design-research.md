@@ -41,7 +41,7 @@ Include between 6 to 20 slides. Pease include images where possible.
 1. Conduct desktop and field research of modular design. Investigate websites and physical stores that sell parts for modular objects and systems.
 2. Produce the presentation according to the presentation requirements and export it to PDF format.
 
-## Post work to the Studio
+## Post work to the Studio as a PDF
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

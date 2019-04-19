@@ -34,6 +34,6 @@ This project asks you to do something that has elements of novelty, to be resour
     - Include photos, drawings, figures, diagrams, templates, and any other visual information that may aid the understanding of the instructions. 
 2. Export the instructions in `.pdf` format.
 
-## Post work to the Studio
+## Post work to the Studio as a PDF
 
 1. Upload the instructions PDF document.
