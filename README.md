@@ -17,7 +17,7 @@ Visit the [DMD Program Hub](http://dmd.psu.edu/) for more details.
 
 **Primary Course Author**
 
-Michael Collins, Assistant Professor, Penn State School of Visual Arts
+Michael Collins, Assistant Professor of Art, Penn State School of Visual Arts
 
 **E-Mail:** msc227@psu.edu  
 **Twitter:** @\_mike\_collins
@@ -25,6 +25,10 @@ Michael Collins, Assistant Professor, Penn State School of Visual Arts
 **Instructional Design**
 
 Kate Miffitt, Assistant Director of Strategic Initiatives, Penn State College of Arts and Architecture
+
+**Instructional Materials Contributor**
+
+Benjamin Andrew, Assistant Teaching Professor, Penn State College of Arts and Architecture
 
 **Special thanks to:**
 
