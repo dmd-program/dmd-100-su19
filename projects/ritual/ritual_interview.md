@@ -18,7 +18,9 @@ The purpose of this interview is to better understand the day-to-day challenges 
 
 ### Step 2: Find challenges
 
-Start the interview by asking your participant about something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do.
+Start the interview by asking your participant about their daily routine. Try to find something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do.
+
+_**Interview Tip: **Try to have a natural conversation. Laugh, joke, and don't rely solely on the example questions below. Give your subject plenty of time to respond, awkward pauses may result in valuable responses if you're patient. _
 
 #### Example questions
 
@@ -27,19 +29,35 @@ Start the interview by asking your participant about something they do or experi
 1. Tell me about your day today or a typical day in your life.
 2. Do you find anything particularly challenging about your daily routine?
    1. Do you have any reoccurring frustrations?  
-3. If you could change something about your day, what would it be?
+3. If you could change something about your typical day, what would it be?
 4. Is there something that, if only you were incredibly good at it, you could improve some aspect of your life?
    1. Why aren't you good at it? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
 
 **Life-long challenges:**
 
-1. Keeping in mind all that you have learned from your life, pretend that you are being asked this question back when you were really young. What do you want to be when you grow up?
-2. Why did you choose this answer?
+1. What is a long-term challenge or frustration in your career or life?
+   1. Why is it challenging? \("it" should be a specific thing, see **Laddering - Five 'Why?'s\)**
+2. If you could go back to childhood and begin your life again, what would you want to do as an adult?
+   1. Why did you choose this answer?
 3. Is there anything preventing you from doing this now? If so, what are some of those things?
    1. Why do you think that is? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
-4. What do you value more, **adventure** or **stability**?
-   1. Why do you think that is? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
 
+**Core Values**
+
+1. What do you value more, **adventure** or **stability**?
+   1. Why do you think that is? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
+2. What is a place that has special meaning to you? \(At home, or elsewhere\)
+   1. What details can you recall most clearly? Describe them.
+3. What is a group, culture, or "tribe" that you strongly identify with?
+   1. How do your participate in, or show your connection to, that group?
+
+**Original Questions**
+
+Prepare three or more original questions that you will ask your subject.
+
+1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?
+2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?
+3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?
 
 #### Laddering - Five 'Why?'s
 
@@ -47,7 +65,7 @@ Laddering is a technique developed in the 1960s to help clinical psychologists u
 
 ### Step 3: Recording responses
 
-* Record the interviewee's responses in your journal. You don't need to write everything they say. Try to capture the key insights.
+* Record the interviewee's responses in your journal. You don't need to write everything they say. Try to capture the key insights. 
 * Make a note of any responses that led to a deeper understanding of what motivates this person?
 * The interview is about better understanding a potential user's problems. Try not to make reference to the project during the questions that may lead the interviewee to attempt to think of solutions. 
 
@@ -59,10 +77,11 @@ Laddering is a technique developed in the 1960s to help clinical psychologists u
 
 ## Post work to the Studio
 
-Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly. 
+Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Submit an image of your journal notes in `.jpg` or `.png` format.
 
 ## Citation:
 
 Adapted from: [http://www.designkit.org/methods/66](http://www.designkit.org/methods/66)
+

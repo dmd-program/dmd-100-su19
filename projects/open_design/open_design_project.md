@@ -6,7 +6,7 @@
 
 In this project, you will follow the Double Diamond design process to: \(1\) design a kit of parts that can be used to build a toy, model, or other object for use by human people; \(2\) write comprehensive instructions for how to make the parts and assemble the kit; and \(3\) create photo documentation of your work.
 
-This object will be a collection or kit of parts that can be reconfigured to create variations. This is serious \(though playful\) product design. You can create your own custom parts from raw materials like cardboard, wood, foam, and others, or found objects like rubber bands, toothpicks, paper clips, etc. A **part** is a discrete element and is different from an ingredient in that it maintains its structural integrity when it's separated, whereas an ingredient gets combined and can not be separated again without a complex separation process. Ingredients should not form the basis of the toy.
+This object will be a collection or kit of parts that can be reconfigured to create variations. This is serious \(though playful\) product design. You can create your own custom parts from raw materials like cardboard, wood, foam, and others, or found objects like rubber bands, toothpicks, paper clips, etc. A **part** is a discrete element and is different from an **ingredient** in that it maintains its structural integrity when it's separated, whereas an ingredient gets combined and can not be separated again without a complex separation process. _Ingredients should not form the basis of the toy._
 
 The primary goal of this project is to apply open design concepts to creating object using commonly available resources, and empower others to do the same. Secondary goals are to become familiar with product and market research, gain experience with user testing and feedback, practice presenting design process, produce knowledge design, and explore the IKEA effect for products. [Read more about the IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
 
@@ -20,13 +20,14 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 
 ## Inspiration
 
-* Not entirely "open," but an excellent example of IKEA affect in product design: [Nintendo Labo](https://www.youtube.com/watch?v=P3Bd3HUMkyU)
-* [https://makezine.com/blog/](https://makezine.com/blog/)
-* [http://www.instructables.com/](http://www.instructables.com/)
+* [Nintendo Labo](https://www.youtube.com/watch?v=P3Bd3HUMkyU) — Not entirely "open," but an excellent example of IKEA affect in product design.
+* [Make](https://makezine.com/blog/) — Blog of maker projects and tech crafts. 
+* [Instructables](http://www.instructables.com/)— Amazing DIY tutorials
 * [https://hackaday.com/](https://hackaday.com/)
-* [https://www.craftster.org/](https://www.craftster.org/)
-* [http://www.getcrafty.com/](http://www.getcrafty.com/)
-* [https://lifehacker.com/](https://lifehacker.com/)
+* [Craftster](https://www.craftster.org/) — Tutorials
+* [GetCrafty](http://www.getcrafty.com/) — Craft forum
+* [Lifehacker](https://lifehacker.com/) — Some fun tutorials about hacking objects in unexpected ways. 
+* [Cubeecraft](http://www.cubeecraft.com/genre/pop-culture/) — Simple papercraft templates. 
 
 ## Previous student work
 
@@ -38,9 +39,16 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 2. A kit should have more than one part \(parts may be the same\).
 3. Materials should not cost more than $10.
 4. You should be able to assemble **three** distinctly different objects with the same kit, tools, and assembly processes.
-5. Everything needed for another person to follow your instructions must be included in the PDF. This includes templates.
+5. Everything needed for another person to follow your instructions must be included in the PDF. This may include templates. Remember, this is an open source kit, _not a boxed toy available in a store_; everything a person needs should be in the instructions or commonly available. 
 6. Do not include another person's copyrighted work in your project that is not appropriately licensed. Typically a Creative Commons License will be needed. The project must be mostly your work, and should not rely on the design work of others.
 7. No weapons. We can define weapon as a device that uses projectiles powerful enough to cause harm to others. For example, a small-scale table-top device that shoots paper or foam projectiles as part of a game objective is fine. A handheld slingshot with the ability to propel objects at other people is a weapon.
 
-There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
+## Tips
+**Make it original:** There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you. 
+
+A good way to create novelty with household objects is to substantially transform the shape through manipulating the materials. Rather than using a paper cup as is, transform it into a _designed_ module. 
+
+**Make it fun:** The kit should be joy to assemble and play with. Avoid tedious assembly and boring, pointless combinations of your modules. 
+
+**Make it variable:** Remember the distinction between ingredients and modules \(see top of page\). Your modules should prioritize structure over decoration and offer many, many possible configurations. Imagine a "library" of parts that can be combined to create many results, the more pieces you have, the more possible configurations there are \(though your pieces may all be identical\).
 

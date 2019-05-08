@@ -10,6 +10,8 @@ You will now start prototyping with your materials to try to approximate the toy
 2. Your users must be able to assemble their kits without special skills or tools. Tools are excluded from the cost restriction.
    1. Allowed tools: Scissors, X-Acto knife
    2. Allowed surface marking implements: Pen, pencil, marker, paintbrush
+   
+**Review the project requirements listed on the [introduction page](/projects/open_design/open_design_project.md) for this project.**
 
 ## Instructions
 

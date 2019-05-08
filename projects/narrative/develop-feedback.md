@@ -39,7 +39,10 @@ For this task, we will use Feldman’s Model for criticism of creative works. Pl
 
 1. Write feedback for your assigned draft\(s\) according to the Peer Feedback Guidelines. Your group assignments are located on Canvas.
 
-**Note:** If you have trouble unzipping the story file, please use a more powerful unzipping tool. See [this tool for Mac](https://theunarchiver.com/) and [this tool for Windows](https://www.7-zip.org/).
+### Troubleshooting:
+* **You must download submissions to view them**; right-click on the submitted file and choose "Save as."
+* If the person's submitted file is not a `.html` or `.zip` file, they may have submitted the project incorrectly and you should notify them or explain the issue to your instructor. 
+* If you have trouble unzipping the story file, please use a more powerful unzipping tool. See [this tool for Mac](https://theunarchiver.com/) and [this tool for Windows](https://www.7-zip.org/).
 
 ## Post work to the Studio
 
