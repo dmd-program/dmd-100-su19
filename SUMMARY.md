@@ -49,6 +49,7 @@
     * [99 Percent Invisible: 10,000 Years](listening/99_percent_invisible_10,000_years.md)
   * Project
     * [Ritual Project Introduction](projects/ritual/ritual_project.md)
+    * [Ritual Inspiration](projects/ritual/ritual-inspiration.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
     * [Define: Themes and insights](projects/ritual/define-insights.md)
     * [Define: HMW](projects/ritual/define_hmw.md)
@@ -77,6 +78,7 @@
     * [99 Percent Invisible: Of Mice and Men](listening/99_percent_invisible_of_mice_and_men.md)
   * Project
     * [Hypertext Narrative introduction](projects/narrative/hypertext-narrative_civic_imagination_project.md)
+    * [Narrative Inspiration](projects/narrative/narrative-inspiration.md)
     * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
     * [Define: Synopsis](projects/narrative/define_the_way_it_was.md)
     * [Develop: Story and plot elements](projects/narrative/develop_story_and_plot.md)
