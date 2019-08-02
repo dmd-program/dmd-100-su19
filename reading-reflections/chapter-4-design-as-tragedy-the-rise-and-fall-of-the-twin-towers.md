@@ -4,7 +4,12 @@ Design as Tragedy: The Rise and Fall of the Twin Towers \(p. 34-45\) in _Design 
 
 ## Prompt
 
-In this chapter, Grudin talks about how economic tradeoffs and cultural appropriation may have contributed to great tragedy. What are other tragedies related to design that you know of from current or historical events? Should designers be held accountable when their designs contribute to a tragedy? What could a designer do to prevent a design tragedy?
+In this chapter, Grudin talks about how economic tradeoffs and cultural appropriation may have contributed to great tragedy. What are other tragedies (large or small) related to design that you know of from current or historical events? 
+
+How might designers be trained or regulated to avoid causing harm? 
+
+Should designers be held accountable when their work causes trauma or destruction?
+
 
 ## Writing guidelines
 

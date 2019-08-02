@@ -4,7 +4,12 @@ Jefferson's Gravestone: Metaphorical Extensions of Design \(p. 117-133\) in Desi
 
 ## Writing prompt
 
-In this chapter, Grudin takes us on a foray through literary design, social design, and of the qualities that make for a good designer and design leader. Grudin talks of the values of design principles, tracks the emergence of design as a concept, and reflects on the seemingly magical quality of the design process. For this prompt, I would like you to reflect on a project that required creative thought for which you initiated and completed. Describe the project, any principles that were in play, relevant historical or social context, what instigated the project, and the process that you undertook to bring it to fruition. Please do not reference projects completed as part of this course.
+In this chapter, Grudin takes us on a foray through literary design, social design, and of the qualities that make for a good designer and design leader. Grudin tracks the emergence of design as a concept, and various evolutions of what the process according to historical designers, all adding up to the "magical idea" of design that can be a "metaphor for creative thought in any area."
+
+Describe an instance in which you designed something, from conceiving a plan in your head through a finished product. What kind of design process did you engage in? Describe your motivation or any significant context, but focus on summarizing your design process and how it affect the end product. Did you work with a group or solo? How did that affect the results?
+
+Connect your example to the reading. Which of the historical or contemporary design approaches mention by Grudin can be related to your process? 
+
 
 ## Writing guidelines
 
