@@ -12,7 +12,7 @@
   * [Writing Guidelines](introduction/writing_guidelines.md)
   * [Requirements](introduction/requirements.md)
 * [Lesson 1: What is design?](lessons/introduction-what-is-design.md)
-  * [Topics](lessons/introduction-what-is-design/topics.md)
+  * Topics
     * [What is design?](topics/what_is_design.md)
     * [Design thinking](topics/design_thinking.md)
     * [Systems thinking](topics/systems_thinking.md)
@@ -42,7 +42,7 @@
     * [Chapter 5. Edsel's Law: How Bad Design Happens](reading-reflections/chapter_5_edsels_law_how_bad_design_happens.md)
     * [Chapter 6. Designs of Darkness](reading-reflections/chapter_6_designs_of_darkness.md)
     * [Chapter 7. Face to Face with Design](reading-reflections/chapter_7_face_to_face_with_design.md)
-  * [Watch](lessons/introduction-visual-and-interaction-design/watch.md)
+  * Watch
     * [VOX: It's not you. Bad doors are everywhere.](lessons/introduction-visual-and-interaction-design/vox-its-not-you-bad-doors-are-everywhere.md)
   * Listen
     * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
@@ -125,4 +125,6 @@
   * Activities
     * [Pathway design](practice/pathway.md)
 * [License](LICENSE.md)
+
+
 
