@@ -7,10 +7,6 @@
 
 [Eidolon by A.D. Jansen](http://ifarchive.jmac.org/if-archive/games/competition2014/Eidolon/Eidolon.html) is another Twitch-based interactive story, including hyperlinks connecting the pages.
 
-![Image of micro robot form the comic, Hero](/assets/cyber-fly-comic.jpg)
-
-Image source: [Hero.pdf](http://threatcasting.com/wp-content/uploads/2018/10/Hero_high-res.pdf)
-
 The U.S. Army Cyber Institute produced a series of [Science Fiction Prototypes by their Threatcasting Lab](https://threatcasting.com/about/sci-fi-prototypes/) written by futurist Brian David Johnson. These short comics illustrate potential technological futures relevant to the military. Most science fiction is written for the public at large, so it's interesting to see these functional narratives developed for strategic research.
 
 If you haven't watched [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror) on Netflix, the anthology show by Charlie Booker is one of the premiere examples of speculative fiction and technology \(things usually don't end well for the users of said technology\).
