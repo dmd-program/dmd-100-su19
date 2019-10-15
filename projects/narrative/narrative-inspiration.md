@@ -7,15 +7,15 @@
 
 [Eidolon by A.D. Jansen](http://ifarchive.jmac.org/if-archive/games/competition2014/Eidolon/Eidolon.html) is another Twitch-based interactive story, including hyperlinks connecting the pages.
 
-![](/assets/cyber-fly-comic.jpg)
+![Image of micro robot form the comic, Hero](/assets/cyber-fly-comic.jpg)
+
+Image source: [Hero.pdf](http://threatcasting.com/wp-content/uploads/2018/10/Hero_high-res.pdf)
 
 The U.S. Army Cyber Institute produced a series of [Science Fiction Prototypes by their Threatcasting Lab](https://threatcasting.com/about/sci-fi-prototypes/) written by futurist Brian David Johnson. These short comics illustrate potential technological futures relevant to the military. Most science fiction is written for the public at large, so it's interesting to see these functional narratives developed for strategic research.
 
 If you haven't watched [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror) on Netflix, the anthology show by Charlie Booker is one of the premiere examples of speculative fiction and technology \(things usually don't end well for the users of said technology\).
 
 But since this project asks you to design a better world, let's look at an example of technological utopia. Black Panther (2018) was a groundbreaking film for many reasons, one of which was its portrayal of an afrofuturist society in mainstream pop culture. Afrofuturism is a genre of literature, philosophy, art, and design, that extrapolates African cultures into the future, upending the typically Eurocentric vision of the future. This article is a good roundup of [Afrofuturist architecture and design products](https://www.dezeen.com/2018/04/06/african-architects-designers-championing-afrofuturism/), but it's worth reading this [CityLab interview with Black Panther production designer Hannah Beachler](https://www.citylab.com/life/2018/11/black-panther-wakanda-golden-city-hannah-beachler-interview/574420/).
-
-![](/assets/wakanda.png)
 
 Beachler and her colleagues designed the entire capital city of Wakanda for _Black Panther_ including a 500 page "Wakanda bible" that detailed the nation's history and technology. In the interview, she describes how "she emphasized human connection in her design" by focusing on public transit instead of cars and putting cultural identity on display.
 
